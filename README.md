@@ -7,7 +7,15 @@ currently learning . . beginner level
 I'll do my best!  
 
 ### 🌹 PROJECTS
-1. 
+- **Web page-based comment analysis system, ~2021. ing**
+Descriptive statistics (gender, age group, etc.)
+Analytical statistics (word cloud, sentiment analysis, text mining_topic modeling)
+
+- **Stock Price Prediction System Using Big Data, ~2021. ing**
+Data extraction : API, Crawling module
+Save Data: SQLite3
+Data Analysis: Tensorflow, LSTM
+Analysis Visualization : PyQT
 
 ### 🌏 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chersiakingdom&langs_count=10&layout=compact&theme=white)](https://github.com/chersiakingdom/chersiakingdom)
