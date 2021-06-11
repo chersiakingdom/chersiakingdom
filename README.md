@@ -7,11 +7,11 @@ currently learning . . beginner level
 I'll do my best!  
 
 ### 🌹 PROJECTS
-- **Web page-based comment analysis system, ~2021. ing**
+- **Web page-based comment analysis system, ~2021. ing**  
 Descriptive statistics (gender, age group, etc.)
 Analytical statistics (word cloud, sentiment analysis, text mining_topic modeling)
 
-- **Stock Price Prediction System Using Big Data, ~2021. ing**
+- **Stock Price Prediction System Using Big Data, ~2021. ing**  
 Data extraction : API, Crawling module
 Save Data: SQLite3
 Data Analysis: Tensorflow, LSTM
