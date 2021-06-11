@@ -10,7 +10,7 @@ I'll do my best!
 1. 
 
 ### 🌏 Languages
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chersiakingdom&show_icons=true&theme=Gradient)
 
 
 
