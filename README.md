@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi there 💘
 
 ### 😊 I AM
 student at Kyung Hee Univ.  
@@ -7,7 +7,7 @@ currently learning . . "early-stage"
 
 ### 🌹 PROJECTS
 
-### 🌏Languages
+### 🌏 Languages
 
 
 <!--
