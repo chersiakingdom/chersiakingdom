@@ -1,5 +1,5 @@
 ### Hi there 👋 
-####### I AM
+##### I AM
 student at Kyung Hee Univ.
 Interested in big data analysis, artificial intelligence (DA, DI)
 Currently learning . .
