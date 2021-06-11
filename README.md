@@ -1,9 +1,13 @@
 ### Hi there 👋 
-# I AM
+### I AM
 student at Kyung Hee Univ.
-Interested in big data analysis, artificial intelligence (DA, DI)
-Currently learning . .
-"early-stage"
+interested in big data analysis, artificial intelligence (DA, DI)
+currently learning . . "early-stage"
+
+### PROJECTS
+
+### Languages
+
 
 <!--
 **chersiakingdom/chersiakingdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
