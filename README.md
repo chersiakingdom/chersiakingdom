@@ -1,12 +1,13 @@
-### Hi there 👋 
-### I AM
+### Hi there 👋  
+
+### 😊 I AM
 student at Kyung Hee Univ.  
 interested in big data analysis, artificial intelligence (DA, DI)  
 currently learning . . "early-stage"  
 
-### PROJECTS
+### 🌹 PROJECTS
 
-### Languages
+### 🌏Languages
 
 
 <!--
