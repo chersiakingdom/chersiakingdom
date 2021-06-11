@@ -10,6 +10,9 @@ I'll do my best!
 1. 
 
 ### 🌏 Languages
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chersiakingdom&langs_count=10&layout=compact&theme=white)](https://github.com/chersiakingdom/chersiakingdom)
 
