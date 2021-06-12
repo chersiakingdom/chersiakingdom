@@ -4,7 +4,7 @@ This github started in May 2021.
 ***
 
 ### 😊 I AM
-3rd-year of industrial management engineering at **Kyung Hee University**   
+3rd-year of Industrial management Engineering at **Kyung Hee University**   
 interested in big data analysis, artificial intelligence (DA, DI)  
 currently learning . . beginner level  
 I'll do my best!  
