@@ -17,6 +17,8 @@ Save Data: SQLite3
 Data Analysis: Tensorflow, LSTM  
 Analysis Visualization : PyQT  
 
+---It will be published by the end of this year.
+
 ### 📜 List of certificates
 - ing..,
 
