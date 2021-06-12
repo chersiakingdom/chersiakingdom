@@ -18,7 +18,7 @@ Data Analysis: Tensorflow, LSTM
 Analysis Visualization : PyQT  
 
 ### 📒 List of certificates
-- Te
+- ing..,
 
 ### 🌏 Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chersiakingdom&langs_count=10&layout=compact&theme=white)](https://github.com/chersiakingdom/chersiakingdom)
