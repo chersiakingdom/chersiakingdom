@@ -1,4 +1,4 @@
-### Hi there 💘 This github started in June 2021.
+### Hi there 💘 This github started in May 2021.
 
 ### 😊 I AM
 3rd-year of industrial management engineering at **Kyung Hee University**   
