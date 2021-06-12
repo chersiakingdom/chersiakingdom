@@ -1,6 +1,5 @@
 ### Hi there 💘 
-This github started in May 2021,
-I'm going to upload slowly what I've studied so far
+This github started in May 2021, and I'm slowly uploading what I've studied so far
 
 ***
 
