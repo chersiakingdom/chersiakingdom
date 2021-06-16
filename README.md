@@ -23,8 +23,8 @@ Analysis Visualization : PyQT
 *It will be published by the end of this year.*
 
 ### 📜 List of certificates
-- ing..,
-
+- Tensorflow Developer Certification(21, 06, 16)
+- ing . .
 
 
 
