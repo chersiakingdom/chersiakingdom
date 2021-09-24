@@ -25,7 +25,7 @@ Save Data: SQLite3
 Data Analysis: Tensorflow, LSTM  
 Analysis Visualization : PyQT  
 
-*It will be published by the end of this year.*
+*will be published by the end of this year.*
 
 - **AI music therapy based on EEG Emotional Analysis, ~2021,09 ing**
 
