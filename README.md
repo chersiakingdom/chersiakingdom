@@ -5,7 +5,6 @@ This github started in May 2021, and I'm slowly uploading what I've been learnin
 
 ### 😊 I AM
 3rd-year of Industrial management Engineering at **Kyung Hee University**
-
 interested in big data analysis, artificial intelligence in medicine (DA, DI)
 
 an undergraduate research student in AIMS lab (Laboratory for Artificial Intelligence in Medicine and Science)
