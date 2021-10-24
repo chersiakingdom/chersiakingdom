@@ -4,9 +4,9 @@ This github started in May 2021, and I'm slowly uploading what I've been learnin
 ***
 
 ### 😊 I AM
-3rd-year of Industrial management Engineering at **Kyung Hee University**
+3rd year student, double majoring in software convergence and industrial engineering at **Kyunghee University**. 
 
-interested in big data analysis, artificial intelligence in medicine (DA, DI)
+interested in Big data analysis, Artificial intelligence in medicine, neuroscience (ML, DL)
 
 undergraduate research student in AIMS lab (Laboratory for Artificial Intelligence in Medicine and Science)
 
@@ -15,19 +15,21 @@ currently learning . . beginner level
 I'll do my best!  
 
 ### 🌹 PROJECTS
-- **Web page-based comment analysis system, ~2021. ing**  
+- **1) Web page-based comment analysis system, ~2021.09. fin**  
 Descriptive statistics (gender, age group, etc.)  
 Analytical statistics (word cloud, sentiment analysis, text mining_topic modeling)  
+https://checherry.tistory.com/92
 
-- **Stock Price Prediction System Using Big Data, ~2021. ing**   
+- **2) Stock Price Prediction System Using Big Data, ~2021.09. ing**   
 Data extraction : API, Crawling module  
 Save Data: SQLite3  
 Data Analysis: Tensorflow, LSTM  
 Analysis Visualization : PyQT  
 
-*will be published by the end of this year.*
+- **3) Implementation of user-friendly music composition algorithm using EEG data, 2021,09~ ing**
 
-- **AI music therapy based on EEG Emotional Analysis, ~2021,09 ing**
+- **4) Brain Reading using EEG data, Encoding and Decoding of the text being read., 2021,11~ ing**
+
 
 
 ### 📜 List of certificates
