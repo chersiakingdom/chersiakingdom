@@ -30,7 +30,7 @@ ing..
 
 ### 🏆 Awards
  - [National Competition] 2021, HanIeum ICT Contest, Silver Prize Winner <tied 4th among 400 teams>
- - [National Competition] 2021, AI Diabetes Outbreak Prediction Datatone (A.I.D.D), Grand Prize Winner <2nd among 132 teams>
+ - [National Competition] 2021, Development of AI model to predict diabetes onset Dataton (A.I.D.D), Grand Prize Winner <2nd among 132 teams>
  - [Kyunghee University] 2021, Software Festival, Grand Prize Winner
  - [Kyunghee University] 2021, Software Festival Data Analysis Category, Excellence Award
 
