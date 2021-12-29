@@ -36,7 +36,7 @@ ing..
 
 
 
-### 📜 ertificates
+### 📜 Certificates
 - Tensorflow Developer Certification____(21, 06, 16)
 - Advanced Data Analytics semi-Professional____(21, 09, 24) 
 - ing . .
