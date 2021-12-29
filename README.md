@@ -1,34 +1,40 @@
 ### Hi there 💘 
-This github started in May 2021, and I'm slowly uploading what I've been learning about coding
+This page started in May 2021, and I'm slowly uploading what I've been studying.
 
 ***
 
 ### 😊 I AM
-3rd year student, double majoring in software convergence and industrial engineering at **Kyunghee University**. 
+a 3rd year undergraduate student, double majoring in software convergence and industrial engineering at **Kyunghee University**. 
 
-interested in Big data analysis, Artificial intelligence in medicine, neuroscience (ML, DL)
+interested in Big data analysis, Artificial intelligence in medicine, Neuroscience (ML, DL)
 
-undergraduate research student in AIMS lab (Laboratory for Artificial Intelligence in Medicine and Science)
-
-currently learning . . beginner level  
+research student in AIMS lab (Laboratory for Artificial Intelligence in Medicine and Science)
 
 I'll do my best!  
 
 ### 🌹 PROJECTS
-- **1) Web page-based comment analysis system, ~2021.09. fin**  
-Descriptive statistics (gender, age group, etc.)  
-Analytical statistics (word cloud, sentiment analysis, text mining_topic modeling)  
+- **1) One-click AI-based comment analysis web service, 2021.04 ~2021.09. fin**  
+A web service that receives the URLs of Naver news, shopping malls, and movie sites that users want, analyzes and visualizes comments.
+It provides various EDA analysis specialized for each site, and analysis applied with deep learning/machine learning techniques such as sentiment analysis and topic modeling. Users can obtain analysis results for the desired information with one click.
+More information .. go to >>
 https://checherry.tistory.com/92
 
-- **2) Stock Price Prediction System Using Big Data, ~2021.09. ing**   
-Data extraction : API, Crawling module  
-Save Data: SQLite3  
-Data Analysis: Tensorflow, LSTM  
-Analysis Visualization : PyQT  
+- **2) Implementation of EEG-based user-friendly music composition algorithm, 2021.09~2021.12. fin**   
+In this study, the purpose of this study is to create user-friendly music through brain waves, going further than the existing purpose of ‘creating music through brain waves’. In other words, it aims to create ‘music that expresses the user’s emotions well’.
+In this way, users can have true ‘my own music’ that expresses themselves well.
+More information .. go to >>
+https://checherry.tistory.com/106 
+and https://github.com/IDEA-m
 
-- **3) Implementation of user-friendly music composition algorithm using EEG data, 2021,09~ ing**
 
-- **4) Brain Reading using EEG data, Encoding and Decoding of the text being read., 2021,11~ ing**
+- **3) Brain Reading using EEG data, Encoding and Decoding of the text being read., 2021,11~ ing**
+ing.. 
+
+### 🏆 Awards
+ - [National Competition] 2021, HanIeum ICT Contest, Silver Prize Winner <tied 4th among 400 teams>
+ - [National Competition] 2021, AI Diabetes Outbreak Prediction Datatone (A.I.D.D), Grand Prize Winner <2nd among 132 teams>
+ - [Kyunghee University] 2021, Software Festival, Grand Prize Winner
+ - [Kyunghee University] 2021, Software Festival Data Analysis Category, Excellence Award
 
 
 
