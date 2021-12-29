@@ -28,8 +28,8 @@ and https://github.com/IDEA-m
 - **3) Brain Reading using EEG data, Encoding and Decoding of the text being read., 2021,11~ ing**<br/>
 ing.. 
 
-- **4) **5) <br/>
-project in progress
+- **4), 5) ** <br/> 
+upcoming project
 
 ### 🏆 Awards
  - [National Competition] 2021, HanIeum ICT Contest, Silver Prize Winner <tied 4th among 400 teams>
