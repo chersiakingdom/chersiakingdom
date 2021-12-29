@@ -18,7 +18,7 @@ More information .. go to >><br/>
 https://checherry.tistory.com/92
 
 - **2) Implementation of EEG-based user-friendly music composition algorithm, 2021.09~2021.12. fin**   
-In this study, the purpose of this study is to create user-friendly music through brain waves, going further than the existing purpose of ‘creating music through brain waves’.<br/> In other words, it aims to create ‘music that expresses the user’s emotions well’.<br/>
+In this study, the purpose of this study is to create user-friendly music through brain waves, going further than the existing purpose of ‘creating music through brain waves’. In other words, it aims to create ‘music that expresses the user’s emotions well’.<br/>
 In this way, users can have true ‘my own music’ that expresses themselves well.<br/>
 More information .. go to >><br/>
 https://checherry.tistory.com/106 
