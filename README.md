@@ -15,7 +15,6 @@ I'll do my best!
 ### 🌹 PROJECTS
 - **1) One-click AI-based comment analysis web service, 2021.04 ~2021.09. fin**  
 A web service that receives the URLs of Naver news, shopping malls, and movie sites that users want, analyzes and visualizes comments.
-
 It provides various EDA analysis specialized for each site, and analysis applied with deep learning/machine learning techniques such as sentiment analysis and topic modeling. Users can obtain analysis results for the desired information with one click.
 More information .. go to >>
 https://checherry.tistory.com/92
