@@ -32,10 +32,10 @@ ing..
 upcoming project
 
 ### 🏆 Awards
- - [National Competition] 2021, HanIeum ICT Contest, Silver Prize Winner <tied 4th among 400 teams>
- - [National Competition] 2021, Development of AI model to predict diabetes onset Dataton (A.I.D.D), Grand Prize Winner <2nd among 132 teams>
- - [Kyunghee University] 2021, Software Festival, Grand Prize Winner
- - [Kyunghee University] 2021, Software Festival Data Analysis Category, Excellence Award
+ - [National Competition] HanIeum ICT Contest, 2021, Silver Prize Winner <tied 4th among 400 teams>
+ - [National Competition] Artificial Intelligence Diabetes Datathon (A.I.D.D), 2021, Grand Prize Winner <2nd among 132 teams>
+ - [Kyunghee University] Software Festival, 2021, Grand Prize Winner
+ - [Kyunghee University] Software Festival Data Analysis Category, 2021, Excellence Award Winner
 
 
 
