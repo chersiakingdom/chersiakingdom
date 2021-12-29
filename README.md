@@ -4,7 +4,7 @@ This page started in May 2021, and I'm slowly uploading what I've been studying.
 ***
 
 ### 😊 I AM
-a 3rd year undergraduate student, double majoring in software convergence and industrial engineering at **Kyunghee University**. <br/>
+a 3rd year undergraduate student, double majoring in software convergence and industrial engineering at **Kyunghee University**.<br/>
 interested in Big data analysis, Artificial intelligence in medicine, Neuroscience (ML, DL)<br/>
 research student in AIMS lab (Laboratory for Artificial Intelligence in Medicine and Science)<br/>
 
@@ -12,15 +12,15 @@ I'll do my best!
 
 ### 🌹 PROJECTS
 - **1) One-click AI-based comment analysis web service, 2021.04 ~2021.09. fin**  
-A web service that receives the URLs of Naver news, shopping malls, and movie sites that users want, analyzes and visualizes comments.
-It provides various EDA analysis specialized for each site, and analysis applied with deep learning/machine learning techniques such as sentiment analysis and topic modeling. Users can obtain analysis results for the desired information with one click.
-More information .. go to >>
+A web service that receives the URLs of Naver news, shopping malls, and movie sites that users want, analyzes and visualizes comments.<br/>
+It provides various EDA analysis specialized for each site, and analysis applied with deep learning/machine learning techniques such as sentiment analysis and topic modeling.<br/> Users can obtain analysis results for the desired information with one click.<br/>
+More information .. go to >><br/>
 https://checherry.tistory.com/92
 
 - **2) Implementation of EEG-based user-friendly music composition algorithm, 2021.09~2021.12. fin**   
-In this study, the purpose of this study is to create user-friendly music through brain waves, going further than the existing purpose of ‘creating music through brain waves’. In other words, it aims to create ‘music that expresses the user’s emotions well’.
-In this way, users can have true ‘my own music’ that expresses themselves well.
-More information .. go to >>
+In this study, the purpose of this study is to create user-friendly music through brain waves, going further than the existing purpose of ‘creating music through brain waves’.<br/> In other words, it aims to create ‘music that expresses the user’s emotions well’.<br/>
+In this way, users can have true ‘my own music’ that expresses themselves well.<br/>
+More information .. go to >><br/>
 https://checherry.tistory.com/106 
 and https://github.com/IDEA-m
 
