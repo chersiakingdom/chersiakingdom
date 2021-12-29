@@ -25,7 +25,7 @@ https://checherry.tistory.com/106
 and https://github.com/IDEA-m
 
 
-- **3) Brain Reading using EEG data, Encoding and Decoding of the text being read., 2021,11~ ing**
+- **3) Brain Reading using EEG data, Encoding and Decoding of the text being read., 2021,11~ ing**<br/>
 ing.. 
 
 ### 🏆 Awards
