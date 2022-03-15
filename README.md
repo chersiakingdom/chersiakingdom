@@ -1,5 +1,5 @@
 ### Hi there 💘 
-This page started in May 2021, and I'm slowly uploading what I've been studying.
+This page opened in May 2021, and I'm slowly uploading what I've been studying.
 
 ***
 
