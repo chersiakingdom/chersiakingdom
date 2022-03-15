@@ -25,7 +25,7 @@ https://checherry.tistory.com/106
 and https://github.com/IDEA-m
 
 
-- **3) Brain Reading using EEG data, Encoding and Decoding of the text being read., 2021,11~ ing**<br/>
+- **3) Dynamic reconfigration of functional brain-network during natural reading, 2022,03~ ing**<br/>
 ing.. 
 
 - **4), 5)** <br/> 
@@ -33,9 +33,10 @@ upcoming project
 
 ### 🏆 Awards
  - [National Competition] HanIeum ICT Contest, 2021, Silver Prize Winner <tied 4th among 400 teams>
- - [National Competition] Artificial Intelligence Diabetes Datathon (A.I.D.D), 2021, Grand Prize Winner <2nd among 132 teams>
- - [Kyunghee University] Software Festival, 2021, Grand Prize Winner
- - [Kyunghee University] Software Festival Data Analysis Category, 2021, Excellence Award Winner
+ - [National Competition] Artificial Intelligence Diabetes Datathon (A.I.D.D), 2021, Top Prize Winner <2nd among 132 teams>
+ - [Kyunghee University] Software Festival, 2021, Grand Prize Winner <1st>
+ - [Kyunghee University] Software Festival - Data Analysis Category, 2021, Excellence Award Winner <1st>
+ - [Kyunghee University] Capstone Design Contest, 2021, Top Prize Winner <2nd>
 
 
 
