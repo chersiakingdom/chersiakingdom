@@ -4,7 +4,7 @@ This page opened in May 2021, and I'm slowly uploading what I've been studying.
 ***
 
 ### 😊 Who I am?
-a 4th year undergraduate student, double majoring in software convergence and industrial engineering at **Kyunghee University**.<br/>
+Senior at **Kyung Hee University**, double majoring in Software Convergence and Industrial Engineering.<br/>
 dream of becoming a researcher with significant influence in data analysis academia. <br/>
 interested in Big Data Analysis, Artificial Intelligence in the medical field, and Neuroscience.<br/>
 respect people who take on valuable challenges with affection and passion in their academic fields.
