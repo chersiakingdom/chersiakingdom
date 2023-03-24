@@ -3,10 +3,11 @@ This page opened in May 2021, and I'm slowly uploading what I've been studying.
 
 ***
 
-### 😊 I AM
+### 😊 Who I am?
 a 4th year undergraduate student, double majoring in software convergence and industrial engineering at **Kyunghee University**.<br/>
-interested in Big data analysis, Artificial intelligence in medicine, Neuroscience (ML, DL)<br/>
-research student in AIMS lab (Laboratory for Artificial Intelligence in Medicine and Science)<br/>
+dream of becoming a researcher with significant influence in data analysis academia. <br/>
+interested in Big Data Analysis, Artificial Intelligence in the medical field, and Neuroscience.<br/>
+respect people who take on valuable challenges with affection and passion in their academic fields.
 
 I'll do my best!  
 
