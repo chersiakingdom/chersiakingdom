@@ -34,17 +34,17 @@ Although brain activity and gaze data generated from reading can be used for nat
 Public safety is one of the main concerns in the United States since crime rates are rise in recent years. While several papers have discussed methods of recommending safe routes, they do not analyze all the factors that could affect the riskiness of the road. Apart from the other papers, we propose an innovative application that recommends safe routes for individuals based on road risk prediction. It is expected that all the results analyzed in this paper can be used as reference material for community safety. I am preparing to publish the paper as a first author, and more detailed information will be provided later.
 
 ### 🏆 Awards
- - **[National Competition] HanIeum ICT Capstone Design Contest**, 2021, Silver Prize Winner <tied 4th out of 400 teams> 
+ - **[National Competition] HanIeum ICT Capstone Design Contest**, 2021, Silver Prize Winner <tied 4th out of 400 teams> <br/>
    A competition to complete a one-year capstone design project in software and present the results.
- - **[National Competition] Artificial Intelligence Diabetes Datathon (A.I.D.D)**, 2021, Top Prize Winner <2nd out of 132 teams>
+ - **[National Competition] Artificial Intelligence Diabetes Datathon (A.I.D.D)**, 2021, Top Prize Winner <2nd out of 132 teams> <br/>
    A competition to develop an artificial intelligence (ML & DL) model that predicts diabetes risk within a given time using medical data. Awarded for the best-performing model. 
- - **[Kyung Hee University] Software Festival**, 2021, Grand Prize Winner <1st> out of all software projects in all categories. 
+ - **[Kyung Hee University] Software Festival**, 2021, Grand Prize Winner <1st> out of all software projects in all categories. <br/>
    A competition where completed software-related projects are submitted and evaluated. Fields include gaming and AR/VR, physical computing, data analysis, and other SWs.
- - **[Kyung Hee University] Software Festival - Data Analysis Category**, 2021, Excellence Award Winner <2nd> out of all software projects in the data analysis field.
+ - **[Kyung Hee University] Software Festival - Data Analysis Category**, 2021, Excellence Award Winner <2nd> out of all software projects in the data analysis field. <br/>
     A competition where completed software-related projects are submitted and evaluated. Fields include gaming and AR/VR, physical computing, data analysis, and other SWs.
-  - **[Kyung Hee University] Capstone Design Contest**, 2022, Top Prize Winner <2nd> out of all capstone design projects in all university departments.
+  - **[Kyung Hee University] Capstone Design Contest**, 2022, Top Prize Winner <2nd> out of all capstone design projects in all university departments. <br/>
      A competition to evaluate and award excellent projects among capstone design projects conducted in the entire university department. 
-  - **[Kyung Hee University] Software Mileage Contest**, 2022, Grand Prize Winner <tied 1st>. 
+  - **[Kyung Hee University] Software Mileage Contest**, 2022, Grand Prize Winner <tied 1st> <br/>
      A competition that selects and awards outstanding students with high scores by scoring for software activities. Activities include national and international academic conferences, journals, competitions, contests, open-source code contributions, patent applications, software registrations, etc.
      
      
