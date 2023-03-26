@@ -10,8 +10,8 @@ interested in Big Data Analysis, Artificial Intelligence in the medical field, a
 espect people with affection and passion to work in their academic field, and who take on valuable challenges to it. :D
 
 ### Career 
-**Undergraduate Researcher** at Artificial Intelligence & Medical Science Lab, Kyung Hee University, Korea, 2021.09~2022.09.
-**Student Intern** at Computer and Information Technology, Purdue University, United States, 2022.08~2022.12 
+**Undergraduate Researcher** at Artificial Intelligence & Medical Science Lab, Kyung Hee University, Korea, 2021.09 ~ 2022.09. <br/>
+**Student Intern** at Computer and Information Technology, Purdue University, United States, 2022.08~2022.12 <br/>
 
 
 ### 🌹 PROJECTS
